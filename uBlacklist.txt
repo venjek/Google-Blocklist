@@ -28,6 +28,7 @@
 *://ge0.net/*
 *://hzkebn.com/*
 *://idcnav.com/*
+*://iknow.baidu.com/*
 *://it889.com/*
 *://ivyyyyyyyypapapa.lofter.com/*
 *://jbh.17qq.com/*
@@ -36,6 +37,7 @@
 *://m.234763.326932.vip/*
 *://m.4ln4vib.shangshuiqianghong.com.cn/*
 *://m.bodykits4me.com/*
+*://m.copyan.com/*
 *://m.duanxunkeji.com/*
 *://m.dztfkt.com/*
 *://m.eoudu.com/*
@@ -59,6 +61,7 @@
 *://m.yz258.com/*
 *://m.zwvoip.net/*
 *://macaodaily.com/*
+*://max.book118.com/*
 *://mayibanchang.com.cn/*
 *://muwuya.com/*
 *://nkj21.com/*
@@ -85,7 +88,9 @@
 *://www.dmfuns.com/*
 *://www.fdsbdxx.com/*
 *://www.hotbak.net/*
+*://www.mouse0232.cn/*
 *://www.ok168198.com/*
+*://www.uucan.cn/*
 *://ylmfeng.com/*
 *://zhipanyou.com/*
 *://zxcx114.com/*
