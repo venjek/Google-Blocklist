@@ -1,4 +1,5 @@
 *://0319car.cn/*
+*://123.meibp.com/*
 *://190915.739819.vip/*
 *://19k915.688167.vip/*
 *://19k915.731171.vip/*
@@ -23,6 +24,7 @@
 *://cfemag.com.cn/*
 *://ci52.com/*
 *://city.zhuaizong.cn/*
+*://cph100.com/*
 *://fuwuqizhijia.com/*
 *://fydqw.com/*
 *://ge0.net/*
@@ -33,6 +35,7 @@
 *://ivyyyyyyyypapapa.lofter.com/*
 *://jbh.17qq.com/*
 *://jordan7sweater.com/*
+*://jrccn.cn/*
 *://ktxh8.com/*
 *://m.234763.326932.vip/*
 *://m.4ln4vib.shangshuiqianghong.com.cn/*
@@ -67,6 +70,7 @@
 *://nkj21.com/*
 *://nmmnm.co/*
 *://nu.lvoosj.tw/*
+*://pu.link/*
 *://q-5.net/*
 *://qhmanhua.com/*
 *://qyhr.uk.com/*
@@ -91,6 +95,8 @@
 *://www.mouse0232.cn/*
 *://www.ok168198.com/*
 *://www.uucan.cn/*
+*://www.w8rt.com/*
+*://www.zhipanyou.com/*
 *://ylmfeng.com/*
 *://zhipanyou.com/*
 *://zxcx114.com/*
