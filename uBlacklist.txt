@@ -246,6 +246,7 @@
 *://a9xk9x.06ic.cn/*
 *://agkf.08js.cn/*
 *://aid7yi.291827.vip/*
+*://aihao8w.com/*
 *://aiox.sameninnop.nl/*
 *://a-jack.com/*
 *://akuu.verfjevrij.nl/*
@@ -261,6 +262,7 @@
 *://baidudogvwc.cn/*
 *://baixn7sc.cn/*
 *://baopo.com.cn/*
+*://bbs.apizz.cn/*
 *://bilisong.com/*
 *://blog.nailsalon-mr.com/*
 *://blueorange-mediaservice.com/*
@@ -290,6 +292,7 @@
 *://codecocoa.com/*
 *://colombogazette.com/*
 *://convi.ecmij0.us/*
+*://covenantirrigation.com/*
 *://cph100.com/*
 *://cs43704-wordpress-1.tw1.ru/*
 *://cv8hkk.lscqmd.icu/*
@@ -297,8 +300,10 @@
 *://cvvg8.hkh717.icu/*
 *://dachuangyi.net/*
 *://ddyy225.com/*
+*://down.tencent.pp.ua/*
 *://dsyzmn.icu/*
 *://dttm.culirex.nl/*
+*://e8fenf.biz/*
 *://eobt.astrologe-instituutsandra.nl/*
 *://f6k5kv.736383.vip/*
 *://fepch.org/*
@@ -450,12 +455,14 @@
 *://m.wenda.so.com/*
 *://m.wev8x5g.tw/*
 *://m.winwin7.com/*
+*://m.xfgxztb.com/*
 *://m.xpwow.com/*
 *://m.youxi131.com/*
 *://m.ywwfys.cn/*
 *://m.yz258.com/*
 *://m.zwvoip.net/*
 *://macaodaily.com/*
+*://machbbs.com/*
 *://max.book118.com/*
 *://mayibanchang.com.cn/*
 *://mefpyw.xyz/*
@@ -549,6 +556,7 @@
 *://tgshenghe.com/*
 *://theater.jon-rey.com/*
 *://thinkinsource.com/*
+*://txbrush.cn/*
 *://ubnnkl.xyz/*
 *://unao.baasglutenvrij.nl/*
 *://urnca.com/*
@@ -563,6 +571,7 @@
 *://vmbx8.jinansougou.top/*
 *://vylp.hometechparts.nl/*
 *://w10zj.com/*
+*://wap.7u8vx.biz/*
 *://wap.buiwvt.xyz/*
 *://wap.digtij.xyz/*
 *://wap.emvebc.xyz/*
@@ -625,6 +634,7 @@
 *://www.dianbonum.com/*
 *://www.dmfuns.com/*
 *://www.dofe.com.cn/*
+*://www.downos.com/*
 *://www.dulipji.com/*
 *://www.dxfdc.net/*
 *://www.fahuoiio.com/*
@@ -643,6 +653,7 @@
 *://www.i5u.onzlc.cn/*
 *://www.iruixun.cn/*
 *://www.iteye.com/*
+*://www.jcabc.cn/*
 *://www.jfdaily.com/*
 *://www.jfsbayonne.com/*
 *://www.jiaowangres.com/*
@@ -674,6 +685,7 @@
 *://www.qfjhb.cn/*
 *://www.qu02.com/*
 *://www.quhuomkh.com/*
+*://www.sbymw.com/*
 *://www.scjlfs.com/*
 *://www.scych.cn/*
 *://www.seo3g.com/*
@@ -684,6 +696,7 @@
 *://www.shunjihongxin.com/*
 *://www.shutoufsh.com/*
 *://www.shuxierjd.com/*
+*://www.sldfc.cn/*
 *://www.technipchina.com/*
 *://www.tongfengqu.com/*
 *://www.tvzhishi.com/*
@@ -702,6 +715,7 @@
 *://www.xin25.cn/*
 *://www.xinkupcg.com/*
 *://www.xinnet.com/*
+*://www.xitongcheng.com/*
 *://www.xiuxigko.com/*
 *://www.xiyousu.com/*
 *://www.xjyf.uk.com/*
@@ -735,3 +749,4 @@
 *://zs21.hbs163.com/*
 *://zwvp.quitforlife.nl/*
 *://zxcx114.com/*
+*://zzzhuoxin.cn/*
