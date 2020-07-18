@@ -60,6 +60,7 @@
 *://1g98.drnj.cn.com/*
 *://1g98.ydhf.cn.com/*
 *://1i9dya.962752.vip/*
+*://20142.895816.vip/*
 *://20524.jkd219.icu/*
 *://206348.cks517.icu/*
 *://20866.kkl123.icu/*
@@ -88,6 +89,7 @@
 *://27058.cks517.icu/*
 *://272374.fkr797.icu/*
 *://27592.dkr763.icu/*
+*://281945.651798.vip/*
 *://285149.lkg725.icu/*
 *://285272.dslymx.icu/*
 *://288662.gsdymn.icu/*
@@ -360,6 +362,7 @@
 *://kgg60.gkf622.icu/*
 *://ktxh8.com/*
 *://laruva.com/*
+*://m.152598.689292.vip/*
 *://m.16360.729585.vip/*
 *://m.175116.536363.vip/*
 *://m.227tft.378983.vip/*
@@ -367,6 +370,7 @@
 *://m.234763.326932.vip/*
 *://m.23846.729585.vip/*
 *://m.253540.ufiymp.tw/*
+*://m.27877.963271.vip/*
 *://m.291239.923162.vip/*
 *://m.293324.958119.vip/*
 *://m.361t.org/*
@@ -399,6 +403,7 @@
 *://m.eoudu.com/*
 *://m.esr2f2.572968.vip/*
 *://m.fsyohan.com/*
+*://m.fvvuq.958197.vip/*
 *://m.fxgxwu.xyz/*
 *://m.fxovat.xyz/*
 *://m.gcvrou.xyz/*
@@ -441,6 +446,7 @@
 *://m.qgvgv6.928956.vip/*
 *://m.qu56sf.963793.vip/*
 *://m.qu6su.321516.vip/*
+*://m.qvsk.725651.vip/*
 *://m.rfss.689691.vip/*
 *://m.rkfq5.968622.vip/*
 *://m.roeeec.xyz/*
@@ -461,6 +467,7 @@
 *://m.ywwfys.cn/*
 *://m.yz258.com/*
 *://m.zwvoip.net/*
+*://m361t.scb8.com/*
 *://macaodaily.com/*
 *://machbbs.com/*
 *://max.book118.com/*
@@ -559,6 +566,7 @@
 *://txbrush.cn/*
 *://ubnnkl.xyz/*
 *://unao.baasglutenvrij.nl/*
+*://uqu.tmpdqc.cn/*
 *://urnca.com/*
 *://usqcn.com/*
 *://ustodesign.tj/*
@@ -609,6 +617,7 @@
 *://www.anhuilife.com/*
 *://www.anlifilm.com/*
 *://www.artez.org.cn/*
+*://www.avgle8.com/*
 *://www.baidu.com/*
 *://www.baidu.com/sf/vsearch*
 *://www.bawopdi.com/*
@@ -720,6 +729,7 @@
 *://www.xiyousu.com/*
 *://www.xjyf.uk.com/*
 *://www.yaoshifo.org/*
+*://www.ybqfw.com/*
 *://www.yhtcj.com/*
 *://www.yiyult.com/*
 *://www.ystartech.com/*
